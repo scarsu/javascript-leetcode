@@ -48,7 +48,7 @@
 - [860. 柠檬水找零](https://github.com/Geekhyt/javascript-leetcode/issues/26)✅
 
 ## 回溯
-- [17. 电话号码的字母组合](https://github.com/Geekhyt/javascript-leetcode/issues/27)
+- [17. 电话号码的字母组合](https://github.com/Geekhyt/javascript-leetcode/issues/27)✅
 - [46. 全排列](https://github.com/Geekhyt/javascript-leetcode/issues/28)
 - [47. 全排列 II](https://github.com/Geekhyt/javascript-leetcode/issues/32)
 - [22. 括号生成](https://github.com/Geekhyt/javascript-leetcode/issues/29)
