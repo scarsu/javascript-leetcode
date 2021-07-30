@@ -54,7 +54,7 @@
 - [22. 括号生成](https://github.com/Geekhyt/javascript-leetcode/issues/29)✅
 - [39. 组合总和](https://github.com/Geekhyt/javascript-leetcode/issues/30)✅
 - [40. 组合总和 II](https://github.com/Geekhyt/javascript-leetcode/issues/31)✅
-- [77. 组合](https://github.com/Geekhyt/javascript-leetcode/issues/33)
+- [77. 组合](https://github.com/Geekhyt/javascript-leetcode/issues/33)✅
 - [78. 子集](https://github.com/Geekhyt/javascript-leetcode/issues/34)
 
 ## 字符串
