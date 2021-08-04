@@ -71,7 +71,7 @@
 - [堆排序](https://github.com/Geekhyt/javascript-leetcode/issues/44)
 
 ## 动态规划
-- [70. 爬楼梯](https://github.com/Geekhyt/javascript-leetcode/issues/38)
+- [70. 爬楼梯](https://github.com/Geekhyt/javascript-leetcode/issues/38)✅
 - [一口气团灭 6 道股票算法](https://github.com/Geekhyt/javascript-leetcode/issues/45)
   - 121.买卖股票的最佳时机✅
   - 122.买卖股票的最佳时机 II✅
